@@ -16,7 +16,7 @@ icon: circle-exclamation
 </p>
 
 <div align="center">
-  <img src="https://github.com/NubsCarson/SolanaOasis-Layer2/blob/main/website/public/logo.png" width="200" alt="SolanaOasis Logo">
+  <img src="https://nubs.site/logo1.png" width="200" alt="SolanaOasis Logo">
 </div>
 
 ## 🤖 AI-Powered Development
