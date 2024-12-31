@@ -12,7 +12,7 @@
 
 Experience the future of development with our specialized AI assistant that generates complete projects from simple prompts. From ideation to deployment, everything happens through a seamless chat interface!
 
-🔗 **Try it now**: [aimade.fun](https://aimade.fun)
+🔗 **Try it now**: [Chat.gpt](https://chatgpt.com/g/g-677462833d0c8191ad5fcec4e64bd6dc-100-ai-dev-test)
 
 ### What makes this special?
 - 🎯 One-prompt project generation
