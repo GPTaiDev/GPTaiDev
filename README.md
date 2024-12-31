@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://aimade.fun/logo.png" width="200" alt="AIMade Logo">
+  <img src="https://nubs.site/logo1.png" width="200" alt="AIMade Logo">
 </div>
 
 ## 🤖 AI-Powered Development
