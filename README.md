@@ -48,21 +48,6 @@ This project is uniquely built using a specialized AI development assistant that
   <a href="https://aimade.fun"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/NubsCarson/SolanaOasis-Layer2.git
-cd SolanaOasis-Layer2
-npm install
-npm run dev
-```
-
-## 📈 Project Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nubscarson&repo=SolanaOasis-Layer2&theme=dark" alt="Repo Card"/>
-</p>
-
 ---
 
 <p align="center">
