@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://nubs.site/logo1.png" width="200" alt="SolanaOasis Logo">
+  <img src="https://nubs.site/logo1.png" width="200" alt="Nubs Logo">
 </div>
 
 ## 🤖 AI-Powered Development
