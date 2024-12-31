@@ -1,14 +1,3 @@
----
-icon: circle-exclamation
----
-
-# README
-
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+SolanaOasis;100%25+AI-Powered+Development&center=true&size=30">
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Powered%20By-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Built%20With-AI-blue?style=for-the-badge&logo=ai&logoColor=white"/>
